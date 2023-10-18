@@ -7,4 +7,4 @@ It is written using Flask (a python framework) and jinja2.
 For the database I used SQLite. 
 
 You can check out the application at:
-http://flask-note-app.herokuapp.com/
+https://flask-todo.omarafifi.com/
