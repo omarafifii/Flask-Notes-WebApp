@@ -1,4 +1,4 @@
-# FlaskFreeCodeCamp
+# Flask Todo
 
 This is a web application created to add, update and remove notes or tasks.
 
